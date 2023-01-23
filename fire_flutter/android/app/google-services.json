@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497676943714",
+    "project_id": "flutter-fire-83bbd",
+    "storage_bucket": "flutter-fire-83bbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497676943714:android:c0103e7b3608515be8ec3b",
+        "android_client_info": {
+          "package_name": "com.example.fire_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497676943714-gdpitghoneot6oajc42b8s8ajsi47sau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaIKnDhLzVDnmOKyBwUaYdbL7_mSRerRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497676943714-gdpitghoneot6oajc42b8s8ajsi47sau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
